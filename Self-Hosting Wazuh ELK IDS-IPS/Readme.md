@@ -1,6 +1,7 @@
 # Self-Hosted Wazuh ELK IDS / IPS
 
-[Visual Paradigm Online](https://online.visual-paradigm.com/w/wdpkjheg/diagrams/#diagram:workspace=wdpkjheg&proj=0&id=1)
+[Visual Paradigm Online](https://online.visual-paradigm.com)
+To keep traking of your growing infrastructure.
 
 - ****Wazuh single-node cluster****
     
