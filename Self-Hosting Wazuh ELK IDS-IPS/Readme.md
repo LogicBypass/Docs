@@ -403,8 +403,8 @@ To keep traking of your growing infrastructure.
     elasticsearch.ssl.verificationMode: certificate
     telemetry.banner: false
     ```
-    
 
+---
 # ****Unattended installation****
 
 [Unattended installation - Distributed deployment · Wazuh documentation](https://documentation.wazuh.com/4.2/installation-guide/open-distro/distributed-deployment/unattended/index.html)
@@ -675,8 +675,8 @@ systemctl status wazuh-manager
         
         Content: insert from: [https://github.com/OpenSecureCo/Wazuh/blob/main/sysmon.xml](https://github.com/OpenSecureCo/Wazuh/blob/main/sysmon.xml)
         
-    
-- Add Ip to Geomap
+---    
+- ### Add Ip to Geomap
     
     SSH into a server with “filebeat” usually “wazuh manager”
     
@@ -710,8 +710,8 @@ systemctl status wazuh-manager
     
     `systemctl restart filebeat`
     
-
-### Useful Folders:
+---
+## Useful Folders:
 
 - Wazuh-Host
     - Linux
